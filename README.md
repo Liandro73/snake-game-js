@@ -2,5 +2,4 @@
 
 Objetivo geral:
 
-*1 - Agregar conhecimentos sobre JS
-
+1 - Agregar conhecimentos sobre JS
